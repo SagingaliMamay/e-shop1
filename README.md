@@ -1,2 +1,3 @@
 # e-shop1
-Laravel web shop
+This is my First project with Laravel framework.
+This project is still in development stage I have some bugs...
